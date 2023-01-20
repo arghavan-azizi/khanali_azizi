@@ -12,7 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.example.arghavanazizimusicplayer.model.SearchModel;
+import com.example.khanaliazizi_melobit.model.SearchModel;
 
 import java.util.List;
 
